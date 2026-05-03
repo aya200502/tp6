@@ -1,7 +1,0 @@
-Manifest-Version: 1.0
-Ant-Version: Apache Ant 1.10.12
-Created-By: Maven
-Build-Jdk: 17
-X-Compiled-By: Maven
-Implementation-Title: TP5 - Spring MVC with Hibernate
-Implementation-Version: 1.0-SNAPSHOT
